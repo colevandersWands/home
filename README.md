@@ -1,4 +1,4 @@
-<!-- BEGIN HEADER --> 
+<!-- BEGIN HEADER -->
 
 # Lab Antwerp 1
 
